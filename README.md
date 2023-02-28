@@ -1,7 +1,7 @@
 # fractals
 ## a collection of different fractals written in p5.js!  
 * Barnsley Fern **(finished)**  
-* Dragon Curve **(wip)**  
+* Dragon Curve **(finished)**  
 * Fractal Tree **(finished)**  
 * Lightning Fractal **(finished)**  
 * Julia Set  
