@@ -6,7 +6,7 @@ var growTree;
 
 function setup() { 
   createCanvas(windowWidth, windowHeight);
-  slider = createSlider(0, 2 * PI, PI / 4, 0.01, false); // set visible to false
+  slider = createSlider(0, 2 * PI, PI / 4, 0.01, false);
   slider.position(10, height);
   slider.class('hidden'); // add a class to the slider element
   sliderMoving = false;
