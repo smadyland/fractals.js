@@ -5,7 +5,7 @@
 * Fractal Tree **(finished)**  
 * Lightning Fractal **(finished)**  
 * Julia Set **(finished)**  
-* Koch Snowflake  
+* Koch Snowflake **(finished)**  
 * Mandelbrot Set  
 * Sierpinski Triangle  
 ### and many more to soon be added...
