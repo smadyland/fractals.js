@@ -3,6 +3,7 @@
 * Barnsley Fern **(finished)**  
 * Dragon Curve **(wip)**  
 * Fractal Tree **(finished)**  
+* Lightning Fractal
 * Julia Set  
 * Koch Snowflake  
 * Mandelbrot Set  
