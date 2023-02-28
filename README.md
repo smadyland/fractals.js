@@ -4,7 +4,7 @@
 * Dragon Curve **(finished)**  
 * Fractal Tree **(finished)**  
 * Lightning Fractal **(finished)**  
-* Julia Set  
+* Julia Set **(finished)**  
 * Koch Snowflake  
 * Mandelbrot Set  
 * Sierpinski Triangle  
