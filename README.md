@@ -9,3 +9,8 @@
 * Mandelbrot Set  
 * Sierpinski Triangle  
 ### New ideas to add;  
+* Hilbert Curve  
+* Menger Sponge  
+* Peano Curve  
+* Sierpinski Curve  
+* Apollonian Gasket  
