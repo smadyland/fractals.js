@@ -26,7 +26,7 @@ function draw() {
 
   angle += 0.02;
 
-  background(255);
+  background(255)
 
   let w = 5;
   let h = (w * height) / width;
