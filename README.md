@@ -8,9 +8,9 @@
 * Koch Snowflake  
 * Mandelbrot Set  
 * Sierpinski Triangle  
-### New ideas to add;  
-* Hilbert Curve  
 * Menger Sponge  
+### todo
+* Hilbert Curve  
 * Peano Curve  
 * Sierpinski Curve  
 * Apollonian Gasket  
