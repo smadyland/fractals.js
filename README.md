@@ -9,8 +9,10 @@
 * Mandelbrot Set  
 * Sierpinski Triangle  
 * Menger Sponge  
-### todo
 * Hilbert Curve  
 * Peano Curve  
 * Sierpinski Curve  
 * Apollonian Gasket  
+### todo
+nothing for now
+
